@@ -1,10 +1,5 @@
-// React
 import { useState, useEffect, useRef } from 'react';
-
-// CSS
 import './App.css';
-
-// Assets
 import {
 	HiOutlinePencil,
 	HiOutlineTrash,
